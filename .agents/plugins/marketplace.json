@@ -1,9 +1,20 @@
 {
+  "name": "personal",
+  "interface": {
+    "displayName": "Personal"
+  },
   "plugins": [
     {
       "name": "ew-ai-work-coach",
-      "source": "./plugins/ew-ai-work-coach",
-      "description": "EW AI Work Coach｜Enterprise Work Method Coach｜企業工作法教練"
+      "source": {
+        "source": "local",
+        "path": "./plugins/ew-ai-work-coach"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
