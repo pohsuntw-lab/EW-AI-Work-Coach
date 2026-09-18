@@ -12,3 +12,5 @@ Initial public structure for **EW AI Work Coach｜企業工作法教練**.
 - Shared case continuity across methods.
 - Human approval and professional responsibility boundaries.
 - ChatGPT plugin metadata and marketplace structure.
+- Official Embodied Worker trademark synchronized for the plugin and skill interfaces.
+- Student installation guide and ChatGPT skill interface metadata.

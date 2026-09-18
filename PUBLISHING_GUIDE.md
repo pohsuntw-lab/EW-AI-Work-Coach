@@ -31,6 +31,9 @@ The same approved image may be used for composer icon and logo.
 
 ## 6. Pre-publish checks
 - SKILL.md exists and matches plugin metadata.
+- `agents/openai.yaml` exists and matches the plugin identity and prompt behavior.
+- `STUDENT_INSTALLATION.md` matches the current version and three starter cards.
+- The approved trademark exists at both required icon paths and the two files are identical.
 - English and Traditional Chinese prompts are readable.
 - No claim of automatic persistence, monitoring, scheduling, or external storage unless such capability is actually connected.
 - No fabricated owners, deadlines, evidence, root causes, approvals, or results.

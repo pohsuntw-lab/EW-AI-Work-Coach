@@ -42,6 +42,14 @@ EW AI Work Coach 是英文／繁體中文雙語企業工作法教練。使用者
 - Help me choose the right work method. / 幫我選擇適合的工作方法。
 - Apply a method I specify. / 使用我指定的工作方法。
 
+## Installation, support, and policies｜安裝、支援與政策
+
+- [Student installation / 學員安裝](STUDENT_INSTALLATION.md)
+- [Publishing guide / 上架指南](PUBLISHING_GUIDE.md)
+- [Support / 支援](SUPPORT.md)
+- [Privacy Policy / 隱私權政策](PRIVACY.md)
+- [Terms of Use / 使用條款](TERMS.md)
+
 ## Brand
 
 Embodied Worker Co., Ltd.｜具象職人股份有限公司
