@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "ew-ai-work-coach",
+      "source": "./plugins/ew-ai-work-coach",
+      "description": "EW AI Work Coach｜Enterprise Work Method Coach｜企業工作法教練"
+    }
+  ]
+}
